@@ -5,8 +5,8 @@ Automated UI tests for [the-internet.herokuapp.com](https://the-internet.herokua
 ## Features
 
 - Login success and failure
+- Logout
 - Page Object Model
-- Headless Chrome
 - HTML Report with `pytest-html`
 
 ## Install & Run
